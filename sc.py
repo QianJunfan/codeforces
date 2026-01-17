@@ -2,7 +2,7 @@ import os, re
 from datetime import datetime, timedelta
 from collections import defaultdict
 
-SEP = "•"
+SEP = "-"
 
 def get_db():
     db = defaultdict(list)
@@ -37,6 +37,7 @@ def run():
     cnts = {k: len(v) for k, v in db.items()}
     start = td - timedelta(days=(td.weekday() + 1) % 7, weeks=29)
     grid = {d: [] for d in ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]}
+
     for i in range(210):
         curr = start + timedelta(days=i)
         grid[curr.strftime("%a")].append(glyph(cnts.get(curr, 0), curr > td))
