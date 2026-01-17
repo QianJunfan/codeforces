@@ -1,5 +1,5 @@
 /* codeforces 4a - watermelon
- * Jan 16, 2026
+ * Jan 18, 2026
  */
 
 #include <iostream>
