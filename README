@@ -13,11 +13,14 @@ Activity log and heatmap provided by sc.py.
         Wed ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░
         Thu ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░
         Fri ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░
-        Sat ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░
+        Sat ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ░ ▒
 
-        Latest: 2026-01-20, ░:[0], ▒:(0,3], ▓:(3,8], █:(8,∞), *:Future
+        Latest: 2026-01-24, ░:[0], ▒:(0,3], ▓:(3,8], █:(8,∞), *:Future
         ---------------------------------------------------------------
 
+
+Jan 24, 2026:
+        leetcode 4 - median of two sorted arrays                        [l4.cpp]
 
 Jan 20, 2026:
         leetcode l3 - longest substring without repeating characters    [l3.cpp]

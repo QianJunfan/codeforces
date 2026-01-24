@@ -21,10 +21,3 @@ double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2)
 
         return 0.0;
 } 
-
-
-/* no merging */
-double findMedianSortedArrays(vector<int>& n1, vector<int>& n2)
-{
-        
-}
